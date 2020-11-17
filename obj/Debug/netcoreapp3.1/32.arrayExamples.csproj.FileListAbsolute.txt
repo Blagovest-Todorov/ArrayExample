@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\DataTypes\32.arrayExamples\bin\Debug\netcoreapp3.1\32.arrayExamples.exe
+C:\Users\Bla\source\repos\DataTypes\32.arrayExamples\bin\Debug\netcoreapp3.1\32.arrayExamples.deps.json
+C:\Users\Bla\source\repos\DataTypes\32.arrayExamples\bin\Debug\netcoreapp3.1\32.arrayExamples.runtimeconfig.json
+C:\Users\Bla\source\repos\DataTypes\32.arrayExamples\bin\Debug\netcoreapp3.1\32.arrayExamples.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\DataTypes\32.arrayExamples\bin\Debug\netcoreapp3.1\32.arrayExamples.dll
+C:\Users\Bla\source\repos\DataTypes\32.arrayExamples\bin\Debug\netcoreapp3.1\32.arrayExamples.pdb
+C:\Users\Bla\source\repos\DataTypes\32.arrayExamples\obj\Debug\netcoreapp3.1\32.arrayExamples.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\DataTypes\32.arrayExamples\obj\Debug\netcoreapp3.1\32.arrayExamples.AssemblyInfo.cs
+C:\Users\Bla\source\repos\DataTypes\32.arrayExamples\obj\Debug\netcoreapp3.1\32.arrayExamples.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\DataTypes\32.arrayExamples\obj\Debug\netcoreapp3.1\32.arrayExamples.dll
+C:\Users\Bla\source\repos\DataTypes\32.arrayExamples\obj\Debug\netcoreapp3.1\32.arrayExamples.pdb
+C:\Users\Bla\source\repos\DataTypes\32.arrayExamples\obj\Debug\netcoreapp3.1\32.arrayExamples.genruntimeconfig.cache
+C:\Users\Bla\source\repos\DataTypes\32.arrayExamples\obj\Debug\netcoreapp3.1\32.arrayExamples.csprojAssemblyReference.cache
